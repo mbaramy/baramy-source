@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/baramy/static/css/main.073c9b0a.css",
+    "main.js": "/baramy/static/js/main.29003e0d.js",
+    "static/js/787.fa115c17.chunk.js": "/baramy/static/js/787.fa115c17.chunk.js",
+    "static/media/logo.svg": "/baramy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/baramy/index.html",
+    "main.073c9b0a.css.map": "/baramy/static/css/main.073c9b0a.css.map",
+    "main.29003e0d.js.map": "/baramy/static/js/main.29003e0d.js.map",
+    "787.fa115c17.chunk.js.map": "/baramy/static/js/787.fa115c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.29003e0d.js"
+  ]
+}
